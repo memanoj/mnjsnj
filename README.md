@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manoj Bhardwaj
 - 👀 I’m interested in Working With New Technology
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning NodeJS Microservices with Nginx and Loadbalancer 
 - 💞️ I’m looking to collaborate on Remote work
 - 📫 How to reach me ...
 
